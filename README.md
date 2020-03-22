@@ -1,3 +1,8 @@
+<big>Fodmap Foodlist SPA</big>
+
+Fodmap / SCD Searchable food list.
+
+
 # Quasar App (food)
 
 A Quasar Framework app
