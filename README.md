@@ -1,6 +1,6 @@
-<big>Fodmap Foodlist SPA</big>
+# Fodmap Foodlist SPA
 
-Fodmap / SCD Searchable food list.
+Fodmap / SCD Searchable food list.  Quasar / Vue 
 
 
 # Quasar App (food)
