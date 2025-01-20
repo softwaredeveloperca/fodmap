@@ -1,5 +1,3 @@
-[<img src="https://api.gitsponsors.com/api/badge/img?id=249205783" height="90">](https://api.gitsponsors.com/api/badge/link?p=5zcF+iOj2C1Om17w6pS2gpG167LhMXXPW22n1j+yTxPn+s/pswY2bhZTMV18r7TfTIg/Y5jC711fXUONdTMtr3IAh2YT/l5H4ociUXGtGw+cglgGZ8uH3KvunJmMzI700XIupR3Fublu8dz5Ogj6rA==)
-
 # Fodmap Foodlist SPA
 
 Fodmap / SCD Searchable food list.  Quasar / Vue 
